@@ -1,17 +1,4 @@
-<!--
- * @Author       : guwanpo@xdf.cn
- * @Date         : 2020-05-12 19:07:38
- * @LastEditors  : guwanpo@xdf.cn
- * @LastEditTime : 2020-05-26 14:38:35
- * @Description  : 描述信息
- -->
-<html>
-
-<body></body>
-<script>
-
-  // 
-  var uniquePathsWithObstacles = function (obstacleGrid) {
+var uniquePathsWithObstacles = function (obstacleGrid) {
 
     const m = obstacleGrid.length
     const n = obstacleGrid[0].length
@@ -87,18 +74,8 @@
   }
 
   Foo.getName()
-  console.log('----------')
   getName()
-  console.log('----------')
   Foo().getName()
-  console.log('----------')
   getName()
-  console.log('----------')
   new Foo.getName()
-  console.log('----------')
   new Foo().getName()
-  
-
-</script>
-
-</html>
